@@ -1,9 +1,9 @@
 # Kotlin MVVM with Room
 
-MVVM with Room sample in Kotlin using the components ViewModel, LiveData , Retrofit and Room. Here room is used for Local DB Caching.
+MVVM with Room sample in Kotlin using the components ViewModel, LiveData , Retrofit and Room. Here room is used for Persistence Local DB.
 
 ## MVVM Pattern (Model View ViewModel)
-<img src="assets/AndroidMVVM.png" height="360">
+<img src="gitassets/AndroidMVVM.png" height="360">
 
 ## MVVM - Room Code
 
