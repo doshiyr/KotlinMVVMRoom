@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinMVVMRoom</string>
+    <string name="str_something_wrong">Something went wrong.</string>
+    <string name="str_link">Link</string>
+</resources>
